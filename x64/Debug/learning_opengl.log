@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\dev_stuff\opengl\learning_opengl\shaderClass.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+F:\dev_stuff\opengl\learning_opengl\main.cpp(217,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  learning_opengl.vcxproj -> F:\dev_stuff\opengl\learning_opengl\x64\Debug\learning_opengl.exe
